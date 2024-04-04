@@ -30,9 +30,13 @@ fieldset:last-of-type {
   border-bottom: none;
 }
 
-label {
+label{
   display: block;
-  margin: 0.5rem 0;
+}
+html{
+  background-color: #1a2b3c;
+  font-family: Tahoma;
+  color: #ffffff
 }
 
 input,
